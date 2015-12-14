@@ -1,4 +1,4 @@
-cmspen
+SPen Detection for pure Android
 ======
 
-Addon to detect the s pen on CyanogenMod/AOSP ROMs
+Addon to detect the s pen on AOSP ROMs
