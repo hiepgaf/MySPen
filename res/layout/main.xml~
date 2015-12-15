@@ -68,7 +68,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="20dp"
         android:text="@string/toggle_bt"
-        android:textOff="@string/toggle_bt_off"
-        android:textOn="@string/toggle_bt_on" />
+        android:textOff="Detection disabled"
+        android:textOn="Detection enabled" />
 
 </LinearLayout>

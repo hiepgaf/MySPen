@@ -1,5 +1,8 @@
 <resources>
 
     <string name="app_name">CM S Pen Add-on</string>
-
+    <string name="info">Reducing the polling value improves the Response time but increases Battery usage\n\nTime unit is MilliSeconds\n\nA screen off polling value less than or equal to 2 seconds is recommended.\n\nHigher values may cause strange behaviour at times.</string>
+    <string name="toggle_bt">Toggle</string>
+    <string name="toggle_bt_on">Toggle On</string>
+    <string name="toggle_bt_off">Toggle Off</string>
 </resources>
